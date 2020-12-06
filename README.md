@@ -12,8 +12,6 @@ download="Acme Documentation (ver. 2.0.1).txt">Certificado digital: Começando d
 
 <br/>
 
-<br/>
-
 <a
 href="Lógica_de_Programação_deixando_os_seus_programas_espertos-Certificado_digital_135250.pdf" 
 download="Acme Documentation (ver. 2.0.1).txt">Certificado digital: Lógica de Programação deixando programas espertos</a>
