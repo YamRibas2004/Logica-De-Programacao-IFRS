@@ -1,0 +1,11 @@
+Os operadores lógicos raramente são utilizados no mundo real, mas acredite, no mundo da programação eles são utilizados com bastante frequência. Os três operadores lógicos são: E, OU e NÃO. E saiba que na programação eles têm a mesma função que a utilizada em nosso dia a dia. Veja só:
+
+"Hoje eu vou à escola e assistirei televisão." Nessa frase, estamos afirmando que vamos realizar as duas ações. Tudo bem que aqui não parece fazer muito sentido, mas geralmente, aplicamos os operadores a outros comandos da programação, que veremos em breve.
+
+O comando OU funciona como um elemento onde uma condição ou outra podem ser verdadeiras, e inclusive as duas opções. Veja:
+
+"Hoje eu vou à escola ou assistirei televisão". Nesse caso, eu posso ir à escola ou posso assistir televisão. Ainda, nada impede que eu faça as duas coisas.
+
+Por fim, temos o não. Ele nega qualquer possibilidade. Veja:
+
+"Hoje eu não vou à escola". Quando utilizamos não, estamos negando qualquer possibilidade de eu ir à escola.
