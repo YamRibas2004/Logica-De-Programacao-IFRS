@@ -2,8 +2,6 @@
 
 Esse repositório foi feito apenas para guardar os códigos que fiz de lógica de programação. Com mentoria dos cursos de lógica de programação, da IFRS
 
-
-<br/>
 <br/>
 
 <a
